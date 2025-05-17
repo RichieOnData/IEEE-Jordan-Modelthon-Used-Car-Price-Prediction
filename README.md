@@ -1,8 +1,6 @@
 
 # 🚗 IEEE Jordan Modelthon - Used Car Price Prediction
 
-![Project Banner](https://img.freepik.com/free-vector/car-sale-illustration_23-2147726308.jpg)
-
 A machine learning solution to predict optimal used car prices in Jordan, developed as a submission for the **IEEE Jordan Modelthon 1.0** competition.
 
 ---
